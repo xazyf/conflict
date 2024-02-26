@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-yarn install
+哇哈哈111
 ```
 
 ### Compiles and hot-reloads for development
